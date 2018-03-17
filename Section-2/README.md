@@ -29,7 +29,7 @@ JavaScript is SINGLE THREADED, SYNCHRONOUS (one line at a time) execution.
 
 Execution Stack
  - Everytime a function is called, an execution context is created and pushed to the execution stack. 
- ![exStack](exstack.png)
+ ![exStack](https://raw.githubusercontent.com/abidrahman/JS-Playground/master/Section-2/exstack.png)
 
 Scope Chaining
  - Finding the definition of a variable that isn't defined in its own execution context.
